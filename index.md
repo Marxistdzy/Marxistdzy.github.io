@@ -1,10 +1,15 @@
 ## Welcome to 我的个人主页！
+
 ### 最新
 1.[征集大佬帮助](https://www.luogu.com.cn/blog/Marxistdzy/zheng-ji-tai-lao-bang-zhu)
 
 ### 个人介绍
+![Marxistdzy的基本信息（借用洛谷卡片）](https://luogu-card.vercel.app/about?id=578241)
+
 A student in Xinyi Middle School
+
 喜欢打代码、搞事情
+
 同时也是一个马克思主义者
 
 ### 文·思
@@ -31,4 +36,5 @@ or you can click this [link](https://www.luogu.com.cn/blog/Marxistdzy/)
 
 ##### 友情链接
 [信宜中学OJ](http://175.178.85.68)
+
 [洛谷](https://www.luogu.com.cn)
