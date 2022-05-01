@@ -3,6 +3,9 @@
 ### 最新
 1.[征集大佬帮助](https://www.luogu.com.cn/blog/Marxistdzy/zheng-ji-tai-lao-bang-zhu)
 
+2.计划建设微信公众平台等公共网络平台
+
+3.征集一个原创Logo，私聊，有偿！
 ### 个人介绍
 ![Marxistdzy的基本信息（借用洛谷卡片）](https://luogu-card.vercel.app/about?id=578241)
 
@@ -23,7 +26,8 @@ You can contact me in the following ways.
 
 TEL:15813002590
 
-E-mail:dzy047801@outlook.com
+E-mail:
+       dzy047801@outlook.com
 
        dzy047801@163.com
 
