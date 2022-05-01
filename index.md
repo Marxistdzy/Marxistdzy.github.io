@@ -27,11 +27,10 @@ You can contact me in the following ways.
 TEL:15813002590
 
 E-mail:
-       dzy047801@outlook.com
-
-       dzy047801@163.com
-
-       ziyingdeng2208@gmail.com
+       
+    dzy047801@outlook.com
+    dzy047801@163.com
+    ziyingdeng2208@gmail.com
 
 QQ:241332938
 
