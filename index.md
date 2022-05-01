@@ -24,4 +24,4 @@ E-mail:
 
 [Github](http://github.com/)
 
-Copyright © 2022 Marxistdzy,Person.
+Copyright © 2022 Marxistdzy.
