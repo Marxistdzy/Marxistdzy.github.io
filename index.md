@@ -15,11 +15,13 @@ TEL:15813002590
 QQ:241332938
 
 E-mail:
-    
+
 dzy047801@outlook.com
 
 ziyingdeng2208@gmail.com
 
+Luogu:click this [link](https://www.luogu.com.cn/user/578241)
+(visit my Luogu blog by this [link](https://www.luogu.com.cn/blog/Marxistdzy/))
 ### 友情链接
 [信宜中学OJ](http://175.178.85.68/)
 
