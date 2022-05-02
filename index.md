@@ -9,6 +9,8 @@ A student in Xinyi Middle School
 [GDOI2022普及组游记](https://www.luogu.com.cn/blog/Marxistdzy/gdoi2022-pu-ji-zu-you-ji)
 ### 技术
 [计算机的组成与接口](https://www.luogu.com.cn/blog/Marxistdzy/ji-suan-ji-di-zu-cheng-yu-jie-kou)
+
+[征集大佬帮助](https://www.luogu.com.cn/blog/Marxistdzy/zheng-ji-tai-lao-bang-zhu)
 ### 联系我
 TEL:15813002590
 
